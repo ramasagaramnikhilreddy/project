@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <unistd.h>
 
-const std::string AIO_KEY = "aio_DFcd99sXlMLaIW8IODbRoGiHuWbg";
+const std::string AIO_KEY = "aio_nGQM985xkxp2UmgSu2Y44XdaGiKl";
 const std::string FEED_URL = "https://io.adafruit.com/api/v2/nikhil_27/feeds/led-pwm/data/last";
 const std::string PWM_CHIP = "/sys/class/pwm/pwmchip1";
 const std::string PWM_PATH = "/sys/class/pwm/pwm-0:0";
