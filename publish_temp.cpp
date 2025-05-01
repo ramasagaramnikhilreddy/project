@@ -7,7 +7,7 @@ int main() {
                 while (true) {
                                 float tempValue = tempSensor.getVoltage() * 100; // LM35 gives 10mV per °C
                                         std::string command = "curl -X POST -F \"value=" + std::to_string(tempValue) +
-                                                                              "\" https://io.adafruit.com/api/v2/nikhil_27/feeds/room-temperature/data?X-AIO-Key=aio_DFcd99sXlMLaIW8IODbRoGiHuWbg";
+                                                                              "\" https://io.adafruit.com/api/v2/nikhil_27/feeds/room-temperature/data?X-AIO-Key=aio_nGQM985xkxp2UmgSu2Y44XdaGiKl";
                                                 system(command.c_str());
                                                         sleep(5);
                                                             }
