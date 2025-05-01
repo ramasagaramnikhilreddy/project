@@ -6,7 +6,7 @@
 #include <cstdlib>
 
 const std::string AIO_USERNAME = "nikhil_27";  // Your Adafruit IO Username
-const std::string AIO_KEY = "aio_yyrs39totqd70LKKjYwYAcmeZegf";  // Your AIO Key
+const std::string AIO_KEY = "aio_nGQM985xkxp2UmgSu2Y44XdaGiKl";  // Your AIO Key
 const std::string FEED_NAME = "control-led";  // Your Adafruit IO Feed name
 const int ledGPIO = 60;  // GPIO number (P9_12)
 
