@@ -5,7 +5,7 @@
 #include <chrono>
 #include <thread>
 
-const std::string AIO_KEY = "aio_agFR101LPGGun4vPIMZLo1N0KUDx";  // Same Adafruit IO Key
+const std::string AIO_KEY = "aio_nGQM985xkxp2UmgSu2Y44XdaGiKl";  // Same Adafruit IO Key
 const std::string FEED_NAME = "led-blink";  // Feed name for number input
 
 // Function to export GPIO if not already exported
