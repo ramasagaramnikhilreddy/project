@@ -5,7 +5,7 @@
 #include <chrono>
 #include <thread>
 
-const std::string AIO_KEY = "aio_WHlO21ha2TKfWd5cOnw3Pdhyvhxt";  // Replace with your Adafruit IO Key
+const std::string AIO_KEY = "aio_nGQM985xkxp2UmgSu2Y44XdaGiKl";  // Replace with your Adafruit IO Key
 const std::string FEED_NAME = "led-toggle";  // Feed name
 
 // Function to send data to Adafruit IO
