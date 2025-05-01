@@ -5,7 +5,7 @@
 #include <chrono>
 #include <thread>
 
-const std::string AIO_KEY = "aio_mcAE67q6usCLUqrpf9Yhn3J4053V";  // Your AIO key
+const std::string AIO_KEY = "aio_nGQM985xkxp2UmgSu2Y44XdaGiKl";  // Your AIO key
 const std::string FEED_NAME = "button-status";  // Adafruit IO Feed name
 const int buttonGPIO = 46;  // GPIO number for button (P8_16)
 
